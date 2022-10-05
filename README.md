@@ -1,9 +1,2 @@
 # Python_Concepts
-Implementing the following Python concepts in JupyterLab:
-- Data Structures
-- Operators
-- Loops
-- Functions
-- Exception Handling
-- Files (Input/Output)
-- OOP
+Implementing the following Python concepts in JupyterLab and the concepts from chapter 3 of the book "Python for Data Analysis"
